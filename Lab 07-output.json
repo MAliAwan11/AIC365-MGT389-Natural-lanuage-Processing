@@ -1,0 +1,255 @@
+{
+  "tokens": [
+    {
+      "text": "Elon",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Musk",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "the",
+      "pos": "DET",
+      "tag": "DT"
+    },
+    {
+      "text": "CEO",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "of",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "Tesla",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "announced",
+      "pos": "VERB",
+      "tag": "VBN"
+    },
+    {
+      "text": "on",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "Tuesday",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "that",
+      "pos": "SCONJ",
+      "tag": "IN"
+    },
+    {
+      "text": "SpaceX",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "will",
+      "pos": "AUX",
+      "tag": "MD"
+    },
+    {
+      "text": "launch",
+      "pos": "VERB",
+      "tag": "VB"
+    },
+    {
+      "text": "a",
+      "pos": "DET",
+      "tag": "DT"
+    },
+    {
+      "text": "Falcon",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "rocket",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "from",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "Texas",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "next",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "month",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "Investors",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "in",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "London",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "and",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "Tokyo",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "reacted",
+      "pos": "VERB",
+      "tag": "VBD"
+    },
+    {
+      "text": "quickly",
+      "pos": "ADV",
+      "tag": "RB"
+    },
+    {
+      "text": "and",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "Tesla",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "shares",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "rose",
+      "pos": "VERB",
+      "tag": "VBD"
+    },
+    {
+      "text": "by",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "4",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "%",
+      "pos": "NOUN",
+      "tag": "NN"
+    }
+  ],
+  "entities": [
+    {
+      "text": "Elon Musk",
+      "label": "PERSON",
+      "start": 0,
+      "end": 9
+    },
+    {
+      "text": "Tesla",
+      "label": "ORG",
+      "start": 22,
+      "end": 27
+    },
+    {
+      "text": "Tuesday",
+      "label": "DATE",
+      "start": 42,
+      "end": 49
+    },
+    {
+      "text": "SpaceX",
+      "label": "PERSON",
+      "start": 55,
+      "end": 61
+    },
+    {
+      "text": "Falcon",
+      "label": "PRODUCT",
+      "start": 76,
+      "end": 82
+    },
+    {
+      "text": "Texas",
+      "label": "GPE",
+      "start": 95,
+      "end": 100
+    },
+    {
+      "text": "next month",
+      "label": "DATE",
+      "start": 101,
+      "end": 111
+    },
+    {
+      "text": "London",
+      "label": "GPE",
+      "start": 126,
+      "end": 132
+    },
+    {
+      "text": "Tokyo",
+      "label": "GPE",
+      "start": 137,
+      "end": 142
+    },
+    {
+      "text": "Tesla shares",
+      "label": "PRODUCT",
+      "start": 164,
+      "end": 176
+    },
+    {
+      "text": "4%",
+      "label": "PERCENT",
+      "start": 185,
+      "end": 187
+    }
+  ],
+  "pos_counts": {
+    "PROPN": 10,
+    "DET": 2,
+    "NOUN": 6,
+    "ADP": 5,
+    "VERB": 4,
+    "SCONJ": 1,
+    "AUX": 1,
+    "ADJ": 1,
+    "CCONJ": 2,
+    "ADV": 1,
+    "NUM": 1
+  }
+}
